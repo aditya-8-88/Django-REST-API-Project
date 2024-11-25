@@ -1,4 +1,4 @@
-# Django REST API Project
+# DjangoRESTful
 
 This project is a simple Django REST API for managing a collection of drinks. Users can retrieve, create, update, and delete drink records using RESTful endpoints.
 
