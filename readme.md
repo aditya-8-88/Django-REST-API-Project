@@ -109,7 +109,7 @@ python manage.py runserver
 - Response:
 ```json
    {
-      "id": <Some Availabel ID>,
+      "id": <Some ID>,
       "name": "Sprite",
       "description": "Lemon-lime soda"
    }
@@ -179,7 +179,3 @@ Feel free to fork this repository and submit pull requests to enhance the API.
 
 ### License
 This project is open-source and available under the MIT License.
-
-### Instructions for Updates:
-1. Replace `git@github.com:aditya-8-88/Django-REST-API-Project.git` with the actual repository URL.
-2. Add a sample `Drink` model and `DrinkSerializer` in your project.
