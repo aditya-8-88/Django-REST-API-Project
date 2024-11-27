@@ -3,6 +3,26 @@
 This project is a simple Django REST API for managing a collection of drinks. Users can retrieve, create, update, and delete drink records using RESTful endpoints.
 
 ---
+- [DjangoRESTful](#djangorestful)
+  - [Prerequisites](#prerequisites)
+  - [Setup Instructions](#setup-instructions)
+    - [1. Clone the Repository](#1-clone-the-repository)
+    - [2. Install Dependencies](#2-install-dependencies)
+    - [3. Configure MySQL Database](#3-configure-mysql-database)
+    - [4. Apply Migrations](#4-apply-migrations)
+    - [5. Start the Development Server](#5-start-the-development-server)
+  - [API Endpoints](#api-endpoints)
+    - [Base URL:](#base-url)
+    - [Endpoints:](#endpoints)
+      - [1. Get All Drinks](#1-get-all-drinks)
+      - [2. Create a New Drink](#2-create-a-new-drink)
+      - [3. Get a Single Drink](#3-get-a-single-drink)
+      - [4. Update a Drink](#4-update-a-drink)
+      - [5. Delete a Drink](#5-delete-a-drink)
+    - [Notes](#notes)
+    - [Additional Features](#additional-features)
+    - [Contribution](#contribution)
+    - [License](#license)
 
 ## Prerequisites
 
